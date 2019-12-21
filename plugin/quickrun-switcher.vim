@@ -1,4 +1,4 @@
-function! s:switch_quickrun(config)
+function! s:switch_quickrun(config) abort
   if !has_key(g:quickrun#default_config, a:config)
     return
   endif
