@@ -2,6 +2,9 @@
 
 Switch QuickRun configuration
 
+
+![vim-starwars](https://raw.githubusercontent.com/mattn/vim-quickrun-switcher/master/screenshot.gif)
+
 ## Usage
 
 ```
