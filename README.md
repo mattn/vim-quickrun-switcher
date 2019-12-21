@@ -8,7 +8,7 @@ Switch QuickRun configuration
 ## Usage
 
 ```
-:SwitchQuickrun
+:SwitchQuickRun
 ```
 
 ## Requirements
